@@ -59,7 +59,7 @@ O `.env` está no `.gitignore` e não deve ser enviado ao GitHub.
 
 ## Próximos passos
 
-- [ ] Assistente RAG sobre documentos
+- [x] Assistente RAG sobre documentos
 - [ ] Agente de triagem de logs
 
 ---
